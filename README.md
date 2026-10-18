@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Ethan Rong. Minds, machines, and the information between them. AI, Cognitive Science, Information Science.">
+  <img src="assets/hero-light.svg" width="100%" alt="Ethan Rong. Thinking about something. AI, Cognitive Science, Information Science.">
 </picture>
 
 <sub>

@@ -10,13 +10,12 @@
 <clipPath id="mind"><circle cx="130" cy="150" r="80"/></clipPath>
 <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#1f2328"/><stop offset=".55" stop-color="#1f2328"/><stop offset="1" stop-color="#6e7781" stop-opacity=".35"/></linearGradient>
 </defs>
-<!-- minds: a circle; machines: a square; between them: the information -->
+<!-- a circle, a square, and what they share -->
 <circle cx="130" cy="150" r="80" fill="none" stroke="#1f2328" stroke-width="1.6"/>
 <g class="sq"><rect x="152" y="90" width="120" height="120" fill="none" stroke="#1f2328" stroke-width="1.6"/></g>
 <g clip-path="url(#mind)"><g class="sq"><rect x="152" y="90" width="120" height="120" fill="#3b5bdb"/></g></g>
 <line x1="330" y1="70" x2="330" y2="230" stroke="#d0d7de" stroke-width="1"/>
-<text x="372" y="96" class="sans" font-size="13" letter-spacing="3.2" fill="#6e7781">ETHAN RONG</text>
-<text x="370" y="152" class="serif" font-size="40" fill="#1f2328">Minds, machines,</text>
-<text x="370" y="200" class="serif" font-size="40" fill="url(#fade)">and the information between them.</text>
-<text x="372" y="240" class="sans" font-size="14" letter-spacing=".4" fill="#6e7781">AI · Cognitive Science · Information Science</text>
+<text x="372" y="112" class="sans" font-size="13" letter-spacing="3.2" fill="#6e7781">ETHAN RONG</text>
+<text x="368" y="172" class="serif" font-size="50" fill="url(#fade)">Thinking about something.</text>
+<text x="372" y="214" class="sans" font-size="14" letter-spacing=".4" fill="#6e7781">AI · Cognitive Science · Information Science</text>
 </svg>
